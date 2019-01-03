@@ -35,8 +35,38 @@
 						</div>	
 					</div>
 				</header>
-        </div>
-			</div>	
+        		</div>	
+		</div>
+		<div class="row">
+					<div class="col s12 contenido red lighten-4 ">
+						<div class="row">
+							<div class="col s1 redes valign-wrapper hide-on-small-only">
+								<div class="valign center-align">
+									<a href="#"><img src="img/instagram.png" class="redes-img"></a>
+									<a href="#"><img src="img/facebook.png" class="redes-img"></a>
+									<a href="#"><img src="img/twitter.png" class="redes-img"></a>
+									<a href="#"><img src="img/pinterest.png" class="redes-img"></a>
+									<a href="#"><img src="img/youtube.png" class="redes-img"></a>
+								</div>
+							</div>
+							<div class="col s12 m11 imagenes">
+								<div class="row">
+									<div class="col s12 m4 img-left">
+										<img src="img/desierto1.jpg" class="z-depth-2 img-content">
+										<img src="img/desierto2.jpg" class="z-depth-2 img-content">
+									</div>
+									<div class="col s12 m4 img-center">
+										<img src="img/desierto3.jpg" class="z-depth-2">
+									</div>
+									<div class="col s12 m4 img-right">
+										<img src="img/desierto4.jpg" class="z-depth-2 img-content">
+										<img src="img/desierto5.jpg" class="z-depth-2 img-content">
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
 		</div>
 
 	
