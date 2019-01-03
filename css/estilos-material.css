@@ -1,0 +1,94 @@
+.logo-col{
+	text-align: right;
+	padding:10px!important;
+}
+.logo{
+	width: 100%;
+	border-radius: 10px;
+	max-width: 200px;
+}
+.barra-navegacion{
+	text-align: right;
+}
+.boton-menu div{
+	margin: 0!important;
+}
+.row{
+	margin-bottom: 0px!important;
+}
+.titulo h2{
+	margin:0px;
+	padding-top:20px;
+	padding-bottom: 5px;
+}
+.contenido{
+	padding-top: 10px!important;
+	padding-bottom: 10px!important;
+}
+
+.redes{
+	height: 505px;
+}
+.redes-img{
+	width: 80%;
+	margin: 10px;
+}
+.img-right img{
+	width: 100%;
+	height: 250px;
+	border:5px solid white;
+}
+.img-center img{
+	width: 100%;
+	height: 505px;
+	border:5px solid white;
+}
+.img-left img{
+	width: 100%;
+	height: 250px;
+	border:5px solid white;
+}
+.articulo{
+	padding: 0!important;
+}
+.articulo-img{
+	width: 100%;
+}
+.perfil{
+	height: 100%;
+}
+.profile{
+	width: 150px;
+	border-radius: 100px;
+}
+.profile-pic{
+	padding-left: 40px;
+	text-align: center;
+}
+.profile-title{
+text-align: center;
+border-bottom: 1px solid gray;
+}
+.profile-text{
+text-align: center;
+}
+@media (max-width: 790px){
+	.menu-i{
+		width: 50%;
+	}
+	.menu-e{
+		width: 50%;
+	}
+	.menu-m{
+		width: 50%;
+	}
+	.menu-r{
+		width: 50%;
+	}
+}
+@media (max-width: 600px){
+	.img-content{
+		width: 100%;
+	}
+
+}

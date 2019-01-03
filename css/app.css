@@ -1,0 +1,142 @@
+body{
+	font-family: verdana;
+	max-width: 900px;
+	margin:auto;
+}
+.head-row{
+
+}
+.container{
+	
+}
+.blog-body{
+	background: white;
+
+}
+.cabecera{
+	background-color: #42a5f5;
+	min-height: 150px;
+
+}
+.cabecera-II{
+
+	background-color: #42a5f5;
+	min-height: 150px;
+}
+.cabecera h1{
+	font-size: 35px;
+	color: white
+}
+.cabecera h4{
+	text-align: right;
+	font-size: 25px;
+	color: white;
+}
+.bloque-izquierdo{
+	background-color: #42a5f5;
+	min-height: 150px;
+}
+.busqueda{
+	padding-top: 10px;
+	border-radius: 10px;
+}
+.busqueda:hover{
+	background-color: #64b5f6;
+}
+
+.boton{
+	border-radius: 5px;
+	float: right;
+}
+.post{
+	min-height: 400px;
+	background-color:#42a5f5;
+}
+.menu-boton{
+	min-height: 50px;
+	width: 100%;
+	background-color:#1565c0;
+	border-radius: 5px;
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color:white;
+}
+.todo{
+	background-color:#42a5f5;
+}
+.menu-boton:hover{
+	background-color:#0d47a1;
+}
+.menu-boton-cuadro{
+	text-align: center;
+}
+.favoritos-img{
+	padding: 5px;
+}
+.favoritos-title{
+	margin-top: 20px;
+	color:white;
+}
+.historial-title{
+	margin-top: 20px;
+	color:white;
+}
+.list-group{
+
+}
+.list-group-item{
+	margin-top: 10px;
+}
+.list-group-item a{
+	color:white;
+	padding-left: 15px;
+}
+.post-article{
+	min-height: 200px;
+	background-color:#9c27b0;
+	border-radius: 5px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.article-title h2{
+	color: white;
+}
+.article-date{
+	color: white;
+}
+.article-description p{
+	color: white;
+}
+.article-comnent{
+
+}
+@media (max-width: 640px){
+	
+}
+.coment-col{
+	background-color:#9c27b0;
+	border-radius: 20px;
+	padding: 5px;
+	max-height: 60px;
+	text-align: center;
+	margin-bottom: 10px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.flex-parent{
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+}
+
+.flex-child{
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.coment-img{
+	width: 60px;
+}
