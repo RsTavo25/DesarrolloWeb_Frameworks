@@ -35,9 +35,14 @@
 						</div>	
 					</div>
 				</header>
-        		</div>	
-		</div>
-		<div class="row">
+				
+						<div class="row hide-on-med-and-up">
+							<div class="col s12 titulo valign-wrapper ">
+								<h2 class="valign center-align">Rodando por el desierto</h2>
+							</div>
+						</div>
+
+				<div class="row">
 					<div class="col s12 contenido red lighten-4 ">
 						<div class="row">
 							<div class="col s1 redes valign-wrapper hide-on-small-only">
@@ -67,6 +72,90 @@
 						</div>
 					</div>
 				</div>
+				<div class="row">
+					<div class="col s12">
+						<div class="row">
+							<div class="col s12 m8 articulo">
+								<div class="card">
+									<div class="card-content white-text">
+										<span class="card-title black-text">Las piramides</span>
+										<br>
+										<div class="chip"><i class="material-icons">date_range</i> 02/01/2019</div>
+										<div class="chip"><i class="material-icons">location_on</i>Piramides de giza</div>
+										<p class="">
+											<div class="row">
+												<div class="col s12 m6"><img src="img/piramides.jpg" class="articulo-img"></div>
+												<div class="col s12 m6 black-text">
+													A principios de la Dinastía III (c. de 2700 a. C.) las mastabas se transformaron en pirámides escalonadas, constituidas con varias gradas, a modo de una "escalera gigantesca" que se elevaba hacia el cielo.
+													La primera y más famosa de estas es la pirámide escalonada de Saqqara del faraón Dyeser (Zoser), una gigantesca escalera, con el fin de simbolizar la ascensión desde "mundo terrenal" "hacia los "Cielos".
+												</div>
+											</div>
+											<div class="row">
+												<div class="col s12 black-text">
+													La siguiente etapa, en la evolución de las pirámides, fue la construcción ordenada erigir por el rey Seneferu, la llamada "pirámide romboidal", o "pirámide acodada", en la región de Dahshur, que se considera una etapa intermedia entre la "pirámide escalonada" y la "pirámide clásica", o de caras lisas. En la pirámide romboidal las caras están conformadas con dos pendientes, de inclinación decreciente en dirección a la cumbre. La ausencia de uniformidad de esta pendiente podría ser un efecto geométrico voluntario.
+												</div>
+											</div>
+
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="col s12 m4">
+								<div class="card perfil">
+										<div class="card-image waves-effect waves-block waves-light">
+											<img src="img/Dva.jpg" class="activator">
+										</div>
+										<div class="card-reveal">
+											<span class="card-title"><i class="material-icons right">close</i>
+											</span>
+											<br>
+											<div class="profile-pic">
+												<img src="img/Dva.jpg" class="profile">
+											</div>
+											<div>
+												<h5 class="profile-title">Gustavo</h5>
+												<p class="profile-text">Posible hijo de Menkaura (Micerino), reinó pocos años, siete si fuera el rey Seberkeres citado por Manetón, o cuatro, según un fragmento del Canon de Turín. En todo caso, legalizó su derecho al trono casándose con una hija de Menkaura, Jentkaus I.</p>
+											</div>
+										</div>
+										<div class="card-content ">
+											<span class="card-title black-text">
+												Perfil de Gustavo
+											</span>
+										</div>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col s12 m8 comentarios red lighten-4">
+								<div class="card">
+									<div class="card-content">
+										<span class="card-title">Deja tu comentario</span>
+										<div class="row">
+												<div class="input-field col s12 m6">
+													<i class="material-icons prefix">perm_identity</i>
+													<input id="nombre" type="text" class="validate">
+													<label for="nombre">Nombre y Apellidos</label>
+												</div>
+												
+												<div class="input-field col s12 m6">
+													<i class="material-icons prefix">email</i>
+													<input id="email" type="email" class="validate">
+													<label for="email" data-success="Correcto" data-error="Debes completar este campo">E-mail</label>
+												</div>
+												<div class="input-field col s12">
+													<textarea id="texto" class="materialize-textarea"></textarea>
+													<label for="texto">Texto</label>
+												</div>
+										</div>
+											<button class="btn waves-effect blue waves-light" type="submit" name="action">
+	    									<i class="material-icons right">send</i>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>	
 		</div>
 
 	
