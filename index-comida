@@ -20,8 +20,98 @@
 				<div class="columns small-6 medium-8 cabecera-II"></div>
 			</div>
 		</header>
-    
-    </div>
+    		<section>
+			<div class="row">
+				<div class="columns small-12 todo">
+					<div class="row">
+						<div class="columns small-4 medium-4 large-4  hide-for-small-only">
+							<div class="row ">
+								<div class="columns small-12 bloque-izquierdo">
+									<div class="row">
+
+										<div class="columns small-12 busqueda">
+											<form>
+											    <input type="text" placeholder="Buscar.." name="search">
+											    <div class="button boton postfix">Buscar</div>
+											</form>
+											
+										</div>
+									</div>
+
+									<div class="row">
+										<div class="columns small-12">
+											<div class="row">
+												<div class="columns small-12">
+													<a href="#" class="menu-boton-cuadro"><div class="menu-boton">Inicio</div></a>
+												</div>
+											</div>
+											<div class="row">
+												<div class="columns small-12">
+													<a href="#" class="menu-boton-cuadro"><div class="menu-boton">Mi plato perfecto</div></a>
+												</div>
+											</div>
+											<div class="row">
+												<div class="columns small-12">
+													<a href="#" class="menu-boton-cuadro"><div class="menu-boton">Mis recetas</div></a>
+												</div>
+											</div>
+										</div>
+									</div>
+									
+									<div class="row">
+										<div class="columns small-12">
+											<div class="row">
+												<div class="columns small-12 favoritos-title">Favoritos:</div>
+											</div>
+											<div class="row">
+												<div class="columns small-4 favoritos-img"><img src="img/pasticho.jpg"></div>
+												<div class="columns small-4 favoritos-img"><img src="img/pasticho.jpg"></div>
+												<div class="columns small-4 favoritos-img"><img src="img/pasticho.jpg"></div>
+											</div>
+											<div class="row">
+												<div class="columns small-4 favoritos-img"><img src="img/pasticho.jpg"></div>
+												<div class="columns small-4 favoritos-img"><img src="img/pasticho.jpg"></div>
+												<div class="columns small-4 favoritos-img"><img src="img/pasticho.jpg"></div>
+											</div>
+										</div>
+									</div>
+
+									<div class="row">
+										<div class="columns small-12">
+											<div class="row">
+												<div class="columns small-12 historial-title">Historial:</div>
+											</div>
+											<div class="row">
+												<div class="columns small-12 historial-elemento">
+													<ul class="list-group no-bullet">
+														<li class="list-group-item"><a href="#">List Group Item 1</a></li>
+														<li class="list-group-item"><a href="#">List Group Item 2</a></li>
+														<li class="list-group-item"><a href="#">List Group Item 3</a></li>
+														<li class="list-group-item"><a href="#">List Group Item 4</a></li>
+														<li class="list-group-item"><a href="#">List Group Item 5</a></li>
+														<li class="list-group-item"><a href="#">List Group Item 6</a></li>
+														<li class="list-group-item"><a href="#">List Group Item 7</a></li>
+														<li class="list-group-item"><a href="#">List Group Item 8</a></li>
+														<li class="list-group-item"><a href="#">List Group Item 9</a></li>
+														<li class="list-group-item"><a href="#">List Group Item 0</a></li>
+														<li class="list-group-item"><a href="#">List Group Item 1</a></li>
+														<li class="list-group-item"><a href="#">List Group Item 2</a></li>
+													</ul>
+												</div>
+											</div>
+
+										</div>
+									</div>
+
+								</div>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</section>
+    	</div>
     <script src="js/vendor/jquery.js"></script>
     <script src="js/vendor/what-input.js"></script>
     <script src="js/vendor/foundation.js"></script>
