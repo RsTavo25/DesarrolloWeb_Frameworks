@@ -53,6 +53,71 @@
 				</div>
 			</nav>
 		</header>
+		<section>
+			<div class="row ">
+				<div class="contenido col-12 col-sm-8">
+					<div class="row post-row">
+						<div class="col-12 post-col">
+							<div class="row">
+								<div class="col-12">
+									<h3>Titulo</h3>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-12 col-sm-9">
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+									consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+									cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+									proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+								</div>
+								<div class="col-12 col-sm-3">
+									<img class="post-img"src="img/movie_5.jpg">
+								</div>								
+							</div>
+							<div class="row ">
+								<div class="col-12 align-middle flex-parent coment-col">
+									<label for="comentario"><img src="img/user.png" class="coment-img flex-child"></label>
+									<textarea name="comentario" rows="2" cols="40" class="flex-child"></textarea>
+									<input type="button" name="boton" value="Enviar" class="flex-child">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row post-row">
+						<div class="col-12 post-col">
+							<div class="row">
+								<div class="col-12">
+									<h3>Titulo</h3>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-12 col-sm-3">
+									<img class="post-img"src="img/movie_5.jpg">
+								</div>
+								<div class="col-12 col-sm-9">
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+									consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+									cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+									proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+								</div>
+							</div>
+							<div class="row coment-row">
+								<div class="col-12 align-middle flex-parent coment-col">
+										<label for="comentario"><img src="img/user.png" class="coment-img flex-child"></label>
+										<textarea name="comentario" rows="2" cols="40" class="flex-child"></textarea>
+										<input type="button" name="boton" value="Enviar" class="flex-child">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</section>
     </div>
 
 	<script src='js/bootstrap.min.js'></script>
